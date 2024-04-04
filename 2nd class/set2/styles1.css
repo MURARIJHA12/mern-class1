@@ -1,0 +1,102 @@
+
+/*.parent{
+    font-size: 10px;
+}
+.child{
+    font-size: 20px;
+    background-color:aqua;
+    width: 10rem;
+}
+html{
+    font-size: 20px;
+}*/
+/* .btn{
+    display: block;
+    padding: 1em;
+    border-radius: 8px;
+    border: none;
+    margin: 10px auto;
+    font-size: 16px;
+    width: 120px;
+} */
+/*.btn-small{
+    display: block;
+    padding: 16px;
+    border-radius: 8px;
+    border: none;
+    margin: 0 auto;
+    font-size: 16px;
+    width: 120px;
+
+}*/
+/* .btn-small{
+    
+    font-size: 10px;
+}
+.btn-big{
+    font-size: 24px;
+} */
+/* body{
+    width: 100vw;
+    height: 100svh;
+    background-color: aqua;
+    
+}
+.parent{
+    background-color: azure;
+    height: 100%;
+}
+.child{
+    height: 100%;
+    background-color: aquamarine;
+    color: green;
+    width: 50%;
+    padding: 16px 32px;
+    overflow: hidden;
+} */
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+ /* body{
+    height: 100vh;
+    widows: 100vb;
+    padding: 10px 32px;
+
+} 
+.parent{
+    ol{
+        background-color: blueviolet;
+    }
+    ul:first-child{
+        background-color: blue;
+    }
+    ul:last-child{
+        background-color: green;
+        li:nth-child(3){
+            background-color: orange;
+        }
+    
+    }
+    ul{
+        li:nth-of-type(2){
+            background-color: aquamarine;
+        }
+    }
+
+} */
+.parent ul{
+    background-color: aqua;
+}
+.parent>ul{
+    background-color: brown;
+}
+.parent+ul{
+    background-color: blanchedalmond;
+}
+body{
+    height: 100vh;
+    widows: 100vb;
+    padding: 10px 32px;
+}
